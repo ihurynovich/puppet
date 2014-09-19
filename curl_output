@@ -1,0 +1,30 @@
+* About to connect() to 192.168.120.52 port 80 (#0)
+*   Trying 192.168.120.52... connected
+* Connected to 192.168.120.52 (192.168.120.52) port 80 (#0)
+> HEAD / HTTP/1.1
+> User-Agent: curl/7.19.7 (x86_64-redhat-linux-gnu) libcurl/7.19.7 NSS/3.14.0.0 zlib/1.2.3 libidn/1.18 libssh2/1.4.2
+> Host: 192.168.120.52
+> Accept: */*
+> 
+< HTTP/1.1 200 OK
+HTTP/1.1 200 OK
+< Server: nginx/1.6.2
+Server: nginx/1.6.2
+< Date: Fri, 19 Sep 2014 17:11:17 GMT
+Date: Fri, 19 Sep 2014 17:11:17 GMT
+< Content-Type: text/html
+Content-Type: text/html
+< Content-Length: 2432
+Content-Length: 2432
+< Connection: keep-alive
+Connection: keep-alive
+< Accept-Ranges: bytes
+Accept-Ranges: bytes
+< ETag: W/"2432-1331338442000"
+ETag: W/"2432-1331338442000"
+< Last-Modified: Sat, 10 Mar 2012 00:14:02 GMT
+Last-Modified: Sat, 10 Mar 2012 00:14:02 GMT
+
+< 
+* Connection #0 to host 192.168.120.52 left intact
+* Closing connection #0

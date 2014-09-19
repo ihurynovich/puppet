@@ -1,0 +1,10 @@
+{
+  "LICENSE": "a300b604c66de62cf6e923cca89c9d83",
+  "Modulefile": "1bff68e9876046be7c24243165361614",
+  "README.md": "d41d8cd98f00b204e9800998ecf8427e",
+  "Rakefile": "e90d68823ff237c89224eb139f8926ad",
+  "manifests/init.pp": "555be8882470b13abcbf8a0f91e28934",
+  "manifests/install.pp": "9e7b35121926f72669658aff1efb8cce",
+  "manifests/params.pp": "9623815e2ddf78487ec9aeca27d24d3c",
+  "metadata.json": "b56ceadad49dadd80cd8d3eeec167ab2"
+}
